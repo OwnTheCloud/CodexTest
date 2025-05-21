@@ -1,6 +1,6 @@
 'use client';
 
-import { Card, CardContent, CardHeader, CardTitle } from '@shadcn/ui';
+import { Card, CardContent, CardHeader, CardTitle } from './ui';
 import { Line, Bar, Pie } from 'react-chartjs-2';
 import type { ChartData, ChartOptions } from 'chart.js';
 import { CategoryScale, LinearScale, PointElement, LineElement, BarElement, ArcElement, Tooltip, Legend } from 'chart.js';

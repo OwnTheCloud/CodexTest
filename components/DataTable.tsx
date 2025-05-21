@@ -11,7 +11,7 @@ import {
   getSortedRowModel,
   useReactTable,
 } from '@tanstack/react-table';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow, Input, Button } from '@shadcn/ui';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow, Input, Button } from './ui';
 
 interface Props<T> {
   data: T[];
