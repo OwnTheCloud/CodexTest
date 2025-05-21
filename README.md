@@ -1,6 +1,6 @@
 # ShadCN Next.js Example
 
-This project demonstrates a simple Next.js app using the App Router, TypeScript, and [ShadCN UI](https://ui.shadcn.com/). It includes a persistent sidebar, dashboard graphs using Chart.js, and a data table with sorting, filtering and pagination.
+This project demonstrates a simple Next.js app using the App Router, TypeScript,. It includes a persistent sidebar, dashboard graphs using Chart.js, and a data table with sorting, filtering and pagination.
 
 ## Setup
 
@@ -21,7 +21,7 @@ Open `http://localhost:3000` in your browser.
 ## Dependencies
 
 - `next` & `react` – framework and React runtime
-- `@shadcn/ui` – UI components styled with Tailwind CSS
+- Custom UI components built with Tailwind CSS
 - `@faker-js/faker` – fake data generation
 - `react-chartjs-2` & `chart.js` – chart components
 - `@tanstack/react-table` – table utilities

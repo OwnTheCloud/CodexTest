@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { cn } from '@shadcn/ui';
+import { cn } from './ui';
 
 export function SideNav() {
   const pathname = usePathname();
