@@ -1,3 +1,5 @@
+'use client';
+
 import { DataTable } from '../../components/DataTable';
 import { generateTableData, DataRow } from '../../lib/data';
 import { ColumnDef } from '@tanstack/react-table';
